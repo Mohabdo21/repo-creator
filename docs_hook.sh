@@ -1,6 +1,7 @@
 #!/bin/bash
 # Documentation Generation Hook
 # For testing, run: ./create_repo.sh --hook docs_hook.sh
+# For production, run: ./create_repo.sh
 
 DOCS_DIR="docs"
 SCRIPT_NAME="create_repo.sh"
